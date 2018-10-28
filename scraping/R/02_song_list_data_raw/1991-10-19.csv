@@ -1,0 +1,101 @@
+rank,peak,artist,title,last_week,weeks_on_chart,no_1_weeks_no_1,no_1_last_week,no_1_last_week_weeks_at_one,no_1_weeks_on_chart
+1,1,Mariah Carey,Emotions,NA,NA,2,NA,2WEEKS AT NO. 1,8WEEKS ON CHART
+2,2,Natural Selection,Do Anything,3,11,NA,NA,NA,NA
+3,3,Karyn White,Romantic,5,10,NA,NA,NA,NA
+4,4,Extreme,Hole Hearted,7,12,NA,NA,NA,NA
+5,5,Bonnie Raitt,Something To Talk About,6,14,NA,NA,NA,NA
+6,1,Marky Mark & The Funky Bunch Featuring Loleatta Holloway,Good Vibrations,2,14,NA,NA,NA,NA
+7,1,Color Me Badd,I Adore Mi Amor,4,13,NA,NA,NA,NA
+8,8,Aaron Neville,Everybody Plays The Fool,10,14,NA,NA,NA,NA
+9,9,Bryan Adams,Can't Stop This Thing We Started,12,6,NA,NA,NA,NA
+10,10,Martika,Love. . .Thy Will Be Done,11,11,NA,NA,NA,NA
+11,11,Prince And The N.P.G.,Cream,17,4,NA,NA,NA,NA
+12,12,Jesus Jones ,Real Real Real,13,9,NA,NA,NA,NA
+13,5,Firehouse,Love Of A Lifetime,8,17,NA,NA,NA,NA
+14,3,Boyz II Men,Motownphilly,9,19,NA,NA,NA,NA
+15,15,Luther Vandross,Don't Want To Be A Fool,18,12,NA,NA,NA,NA
+16,16,Naughty By Nature,O.P.P.,20,7,NA,NA,NA,NA
+17,16,Metallica,Enter Sandman,16,9,NA,NA,NA,NA
+18,18,Chesney Hawkes,The One And Only,19,12,NA,NA,NA,NA
+19,19,Vanessa Williams,Running Back To You,22,11,NA,NA,NA,NA
+20,20,Rhythm Syndicate,Hey Donna,27,7,NA,NA,NA,NA
+21,21,Guns N' Roses,Don't Cry,28,5,NA,NA,NA,NA
+22,21,Prince And The N.P.G.,Gett Off,21,10,NA,NA,NA,NA
+23,23,Siouxsie & The Banshees,Kiss Them For Me ,24,10,NA,NA,NA,NA
+24,24,Roberta Flack With Maxi Priest,Set The Night To Music,32,5,NA,NA,NA,NA
+25,25,Tony Terry,With You,30,17,NA,NA,NA,NA
+26,26,Salt-N-Pepa,Let's Talk About Sex,35,9,NA,NA,NA,NA
+27,27,Curtis Stigers,I Wonder Why,34,7,NA,NA,NA,NA
+28,28,Bad Company,Walk Through Fire,31,9,NA,NA,NA,NA
+29,11,Heavy D & The Boyz,Now That We Found Love,15,17,NA,NA,NA,NA
+30,30,Boyz II Men,It's So Hard To Say Goodbye To Yesterday,39,5,NA,NA,NA,NA
+31,31,Amy Grant,That's What Love Is For,40,4,NA,NA,NA,NA
+32,32,Michael Bolton,When A Man Loves A Woman,44,2,NA,NA,NA,NA
+33,1,Bryan Adams,(Everything I Do) I Do It For You,23,17,NA,NA,NA,NA
+34,10,R.E.M.,Shiny Happy People,14,13,NA,NA,NA,NA
+35,35,Billy Falcon,Power Windows,38,10,NA,NA,NA,NA
+36,7,Michael Bolton,"Time, Love And Tenderness",25,15,NA,NA,NA,NA
+37,37,Jasmine Guy,Just Want To Hold You,43,12,NA,NA,NA,NA
+38,8,Cathy Dennis,Too Many Walls,29,16,NA,NA,NA,NA
+39,39,Russ Irwin,My Heart Belongs To You,47,6,NA,NA,NA,NA
+40,40, John Mellencamp,Get A Leg Up,54,3,NA,NA,NA,NA
+41,4,C+C Music Factory,Things That Make You Go Hmmmm. . .,26,14,NA,NA,NA,NA
+42,42,Bad English,Straight To Your Heart,45,8,NA,NA,NA,NA
+43,41,PC Quest, After The Summer's Gone,41,10,NA,NA,NA,NA
+44,4,Scorpions,Wind Of Change,37,21,NA,NA,NA,NA
+45,45,Nia Peeples,Street Of Dreams,66,2,NA,NA,NA,NA
+46,46, K.M.C. KRU,The Devil Came Up To Michigan,50,8,NA,NA,NA,NA
+47,NA,Paula Abdul,Blowing Kisses In The Wind,NA,NA,NA,NA,NA,NA
+48,48,EMF,Lies,57,4,NA,NA,NA,NA
+49,24,Bob Seger & The Silver Bullet Band,The Real Love,33,9,NA,NA,NA,NA
+50,NA,P.M. Dawn,Set Adrift On Memory Bliss,NA,NA,NA,NA,NA,NA
+51,51,Simply Red,Something Got Me Started,59,4,NA,NA,NA,NA
+52,1,Paula Abdul,The Promise Of A New Day,36,14,NA,NA,NA,NA
+53,8,Hi-Five,I Can't Wait Another Minute,42,18,NA,NA,NA,NA
+54,54,The Brand New Heavies Featuring N'Dea Davenport,Never Stop,55,7,NA,NA,NA,NA
+55,55,Big Audio,Rush,62,5,NA,NA,NA,NA
+56,56,Van Halen,Top Of The World,69,2,NA,NA,NA,NA
+57,57,Corina,Whispers,65,4,NA,NA,NA,NA
+58,58,Geto Boys,Mind Playing Tricks On Me,71,3,NA,NA,NA,NA
+59,59,D.J. Jazzy Jeff & The Fresh Prince,Ring My Bell,72,2,NA,NA,NA,NA
+60,60,Michael W. Smith,For You,60,6,NA,NA,NA,NA
+61,8,The Escape Club,I'll Be There,51,22,NA,NA,NA,NA
+62,62,Lisette Melendez, A Day In My Life (Without You),67,4,NA,NA,NA,NA
+63,63,The Farm,Groovy Train,68,4,NA,NA,NA,NA
+64,58,Eddie Money,Heaven In The Back Seat,58,6,NA,NA,NA,NA
+65,28,Tami Show,The Truth ,46,12,NA,NA,NA,NA
+66,NA,Public Enemy,Can't Truss It,NA,NA,NA,NA,NA,NA
+67,67,CeCe Peniston,Finally,75,4,NA,NA,NA,NA
+68,10,Rod Stewart,The Motown Song,48,16,NA,NA,NA,NA
+69,56, Stevie Nicks,Sometimes (It's A Bitch),56,7,NA,NA,NA,NA
+70,70,Crash Test Dummies,Superman's Song,78,3,NA,NA,NA,NA
+71,5,The KLF,3 A.M. Eternal,53,18,NA,NA,NA,NA
+72,46, Or-N-More (Featuring Father M.C.),Everyotherday,49,8,NA,NA,NA,NA
+73,73,Gloria Estefan,Live For Loving You,85,2,NA,NA,NA,NA
+74,74,Richie Sambora,Ballad Of Youth,79,4,NA,NA,NA,NA
+75,14,Natalie Cole, Unforgettable,63,15,NA,NA,NA,NA
+76,7,Seal,Crazy,52,18,NA,NA,NA,NA
+77,63,Motley Crue,Primal Scream,64,5,NA,NA,NA,NA
+78,NA,Angelica,Angel Baby,NA,NA,NA,NA,NA,NA
+79,67,M.C. Breed & D.F.C.,Ain't No Future In Yo' Fronting,77,6,NA,NA,NA,NA
+80,80,Blue Train,All I Need Is You,90,3,NA,NA,NA,NA
+81,81,Desmond Child,You're The Story Of My Life,87,3,NA,NA,NA,NA
+82,63,Hi-C,I'm Not Your Puppet,73,10,NA,NA,NA,NA
+83,59,Steelheart,She's Gone (Lady),61,8,NA,NA,NA,NA
+84,78,Ex-Girlfriend,Why Can't You Come Home,83,7,NA,NA,NA,NA
+85,NA,Tracie Spencer,Tender Kisses,NA,NA,NA,NA,NA,NA
+86,86,Vanilla Ice ,Cool As Ice (Everybody Get Loose),94,2,NA,NA,NA,NA
+87,87,MC Skat Kat & The Stray Mob,Skat Strut,96,2,NA,NA,NA,NA
+88,62,TKA,Louder Than Love,81,11,NA,NA,NA,NA
+89,49,RTZ ,Face The Music,76,10,NA,NA,NA,NA
+90,NA,Rod Stewart,Broken Arrow,NA,NA,NA,NA,NA,NA
+91,NA,Crowded House,Fall At Your Feet,NA,NA,NA,NA,NA,NA
+92,NA,Cher,Save Up All Your Tears,NA,NA,NA,NA,NA,NA
+93,NA,Lenny Kravitz,Stand By My Woman,NA,NA,NA,NA,NA,NA
+94,49,DJ Quik,Tonite,74,9,NA,NA,NA,NA
+95,54,Latin Alliance Featuring War,Low Rider (On The Boulevard),88,11,NA,NA,NA,NA
+96,2,Amy Grant,Every Heartbeat,70,19,NA,NA,NA,NA
+97,33,38 Special,The Sound Of Your Voice,82,15,NA,NA,NA,NA
+98,83,Erasure,Chorus,92,11,NA,NA,NA,NA
+99,85,Ziggy Marley And The Melody Makers,Good Time,86,5,NA,NA,NA,NA
+100,29,Guns N' Roses,You Could Be Mine,80,15,NA,NA,NA,NA

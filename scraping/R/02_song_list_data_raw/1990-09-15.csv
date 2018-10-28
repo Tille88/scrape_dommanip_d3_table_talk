@@ -1,0 +1,101 @@
+rank,peak,artist,title,last_week,weeks_on_chart,no_1_weeks_no_1,no_1_last_week,no_1_last_week_weeks_at_one,no_1_weeks_on_chart
+1,1,Wilson Phillips,Release Me,NA,NA,NA,2,2LAST WEEK ,12WEEKS ON CHART
+2,1,Jon Bon Jovi,"Blaze Of Glory (From ""Young Guns II"")",1,9,NA,NA,NA,NA
+3,3,Bell Biv DeVoe,Do Me!,3,12,NA,NA,NA,NA
+4,4,M.C. Hammer,Have You Seen Her,6,12,NA,NA,NA,NA
+5,3, Poison,Unskinny Bop,4,11,NA,NA,NA,NA
+6,6,Nelson,(Can't Live Without Your) Love And Affection,8,11,NA,NA,NA,NA
+7,7,Prince,Thieves In The Temple,11,7,NA,NA,NA,NA
+8,1,Sweet Sensation,If Wishes Came True,5,14,NA,NA,NA,NA
+9,7,New Kids On The Block,Tonight ,7,7,NA,NA,NA,NA
+10,10,Maxi Priest,Close To You,13,12,NA,NA,NA,NA
+11,11,Phil Collins,Something Happened On The Way To Heaven,17,7,NA,NA,NA,NA
+12,1,Mariah Carey,Vision Of Love,12,16,NA,NA,NA,NA
+13,13,Cheap Trick,Can't Stop Falling Into Love,18,9,NA,NA,NA,NA
+14,2,Janet Jackson,Come Back To Me,10,12,NA,NA,NA,NA
+15,15,Paul Young,Oh Girl,19,10,NA,NA,NA,NA
+16,9,Faith No More,Epic,9,13,NA,NA,NA,NA
+17,14,Kyper,Tic-Tac-Toe,15,12,NA,NA,NA,NA
+18,18,George Michael,Praying For Time,23,3,NA,NA,NA,NA
+19,19,Johnny Gill,"My, My, My",20,7,NA,NA,NA,NA
+20,20,Taylor Dayne,Heart Of Stone,21,7,NA,NA,NA,NA
+21,21,After 7,Can't Stop,24,8,NA,NA,NA,NA
+22,15,Stevie B,Love And Emotion,16,12,NA,NA,NA,NA
+23,9,The Time,Jerk Out,14,12,NA,NA,NA,NA
+24,24,Dino,Romeo,26,6,NA,NA,NA,NA
+25,25,Black Box, Everybody Everybody,29,7,NA,NA,NA,NA
+26,26,Depeche Mode,Policy Of Truth,30,6,NA,NA,NA,NA
+27,27,James Ingram,I Don't Have The Heart,36,7,NA,NA,NA,NA
+28,28,The Adventures Of Stevie V,Dirty Cash (Money Talks),33,9,NA,NA,NA,NA
+29,29,Lisa Stansfield,This Is The Right Time,35,5,NA,NA,NA,NA
+30,30,The Righteous Brothers,Unchained Melody,37,4,NA,NA,NA,NA
+31,31,Indecent Obsession,Tell Me Something,34,8,NA,NA,NA,NA
+32,32,Pebbles,Giving You The Benefit,40,5,NA,NA,NA,NA
+33,2,Billy Idol,"Cradle Of Love (From ""Ford Fairlane"")",25,20,NA,NA,NA,NA
+34,8,Go West,"King Of Wishful Thinking (From ""Pretty Woman"")",27,18,NA,NA,NA,NA
+35,14,Keith Sweat,Make You Sweat,22,16,NA,NA,NA,NA
+36,36,The Boys,Crazy,38,4,NA,NA,NA,NA
+37,NA,Janet Jackson,Black Cat,NA,NA,NA,NA,NA,NA
+38,2,Snap!,The Power,28,19,NA,NA,NA,NA
+39,39,Breathe,Say A Prayer,44,4,NA,NA,NA,NA
+40,20,Luke Featuring The 2 Live Crew,Banned In The U.S.A.,31,9,NA,NA,NA,NA
+41,41,"Glenn Medeiros Featuring Ray Parker, Jr.",All I'm Missing Is You,43,5,NA,NA,NA,NA
+42,42,Slaughter,Fly To the Angels,50,5,NA,NA,NA,NA
+43,43,Jude Cole,Time For Letting Go,51,7,NA,NA,NA,NA
+44,44, Winger,Can't Get Enuff,52,8,NA,NA,NA,NA
+45,2,En Vogue,Hold On,41,20,NA,NA,NA,NA
+46,46,INXS,Suicide Blonde,62,2,NA,NA,NA,NA
+47,47,Tony Toni Tone,Feels Good,48,3,NA,NA,NA,NA
+48,11, Seduction,Could This Be Love,32,15,NA,NA,NA,NA
+49,42,Kid Frost,La Raza,42,11,NA,NA,NA,NA
+50,50,Michael Bolton,Georgia On My Mind,55,4,NA,NA,NA,NA
+51,51,Doc Box & B. Fresh,Slow Love,53,9,NA,NA,NA,NA
+52,14,Mellow Man Ace,Mentirosa,46,19,NA,NA,NA,NA
+53,3,Johnny Gill,Rub You The Right Way,39,19,NA,NA,NA,NA
+54,35,The West Coast Rap All-Stars,We're All In the Same Gang,47,13,NA,NA,NA,NA
+55,55,Vixen,How Much Love,59,6,NA,NA,NA,NA
+56,56,The Whispers,Innocent,58,7,NA,NA,NA,NA
+57,57,Vanilla Ice,Ice Ice Baby,72,2,NA,NA,NA,NA
+58,58,En Vogue,Lies,63,4,NA,NA,NA,NA
+59,59,Concrete Blonde,Joey,68,5,NA,NA,NA,NA
+60,18,Bruce Hornsby & The Range,Across The River,49,13,NA,NA,NA,NA
+61,61,Alias,More Than Words Can Say,84,2,NA,NA,NA,NA
+62,21,Bad English,Possession,54,15,NA,NA,NA,NA
+63,44,Gloria Estefan,Cuts Both Ways,61,12,NA,NA,NA,NA
+64,64,Sydney Youngblood,I'd Rather Go Blind,70,4,NA,NA,NA,NA
+65,65,George LaMond,Look Into My Eyes,66,5,NA,NA,NA,NA
+66,27,Brother Beyond,The Girl I Used To Know,45,13,NA,NA,NA,NA
+67,67,Candyman,Knockin' Boots,76,3,NA,NA,NA,NA
+68,68,Duran Duran,Violence Of Summer (Love's Taking Over),73,3,NA,NA,NA,NA
+69,69,Louie Louie,I Wanna Get Back With You,71,5,NA,NA,NA,NA
+70,22,Aerosmith ,The Other Side,57,13,NA,NA,NA,NA
+71,48,Don Henley,How Bad Do You Want It?,56,11,NA,NA,NA,NA
+72,65,TKA,I Won't Give Up On You,65,6,NA,NA,NA,NA
+73,NA,Mariah Carey,Love Takes Time,NA,NA,NA,NA,NA,NA
+74,74,Tyler Collins,Second Chance,83,3,NA,NA,NA,NA
+75,47, Troop,All I Do Is Think Of You,64,11,NA,NA,NA,NA
+76,1,Madonna,Vogue,67,23,NA,NA,NA,NA
+77,77,Gene Loves Jezebel,Jealous,78,5,NA,NA,NA,NA
+78,78,Warrant,Cherry Pie,97,2,NA,NA,NA,NA
+79,79, Cynthia & Johnny O,Dream Boy/Dream Girl,87,3,NA,NA,NA,NA
+80,80,Tricia Leigh Fisher, Empty Beach,80,4,NA,NA,NA,NA
+81,81,Beats International,Won't Talk About It,82,4,NA,NA,NA,NA
+82,23,Heart,I Didn't Want To Need You,60,13,NA,NA,NA,NA
+83,83,Billy Idol,L.A. Woman,94,2,NA,NA,NA,NA
+84,84,Ms. Adventures,Undeniable,85,3,NA,NA,NA,NA
+85,69,Favorite Angel,Only Women Bleed,69,6,NA,NA,NA,NA
+86,7,Michael Bolton,When I'm Back On My Feet Again,74,17,NA,NA,NA,NA
+87,87,Motley Crue,Same Ol' Situation (S.O.S.),90,2,NA,NA,NA,NA
+88,88,Soho,Hippychick,95,2,NA,NA,NA,NA
+89,8,Depeche Mode,Enjoy The Silence,77,23,NA,NA,NA,NA
+90,90,Snap!,Ooops Up,99,2,NA,NA,NA,NA
+91,72,The Party,Summer Vacation,81,9,NA,NA,NA,NA
+92,81,Tiana,First True Love,89,10,NA,NA,NA,NA
+93,1,Roxette,"It Must Have Been Love (From ""Pretty Woman"")",92,24,NA,NA,NA,NA
+94,6,Tyler Collins ,Girls Nite Out,79,21,NA,NA,NA,NA
+95,1,Glenn Medeiros Featuring Bobby Brown,She Ain't Worth It,75,18,NA,NA,NA,NA
+96,NA,Deee-Lite,Groove Is In The Heart,NA,NA,NA,NA,NA,NA
+97,52,St. Paul,Stranger To Love,86,11,NA,NA,NA,NA
+98,19,Motley Crue,Don't Go Away Mad (Just Go Away),93,16,NA,NA,NA,NA
+99,44,Anita Baker,Talk To Me,91,13,NA,NA,NA,NA
+100,NA,UB40,The Way You Do The Things You Do,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,101 @@
+rank,peak,artist,title,last_week,weeks_on_chart,no_1_weeks_no_1,no_1_last_week,no_1_last_week_weeks_at_one,no_1_weeks_on_chart
+1,1,Ace Of Base,The Sign,NA,NA,2,NA,2 WEEKS AT NO. 1,12WEEKS ON CHART
+2,1,Celine Dion,The Power Of Love,2,17,NA,NA,NA,NA
+3,3,Mariah Carey,Without You/Never Forget You,4,8,NA,NA,NA,NA
+4,3,Salt-N-Pepa Featuring En Vogue ,Whatta Man,3,9,NA,NA,NA,NA
+5,5,R. Kelly,Bump N' Grind,6,7,NA,NA,NA,NA
+6,5,All-4-One,So Much In Love,5,12,NA,NA,NA,NA
+7,7,Richard Marx,Now And Forever,8,9,NA,NA,NA,NA
+8,3,Toni Braxton,Breathe Again,7,23,NA,NA,NA,NA
+9,9,Snoop Doggy Dogg,Gin And Juice,12,8,NA,NA,NA,NA
+10,10,Janet Jackson,Because Of Love,11,8,NA,NA,NA,NA
+11,9,US3,Cantaloop (Flip Fantasia),9,17,NA,NA,NA,NA
+12,1,Bryan Adams/Rod Stewart/Sting,All For Love,10,17,NA,NA,NA,NA
+13,13,Meat Loaf,Rock And Roll Dreams Come Through,13,8,NA,NA,NA,NA
+14,14,Tom Petty And The Heartbreakers,Mary Jane's Last Dance,16,13,NA,NA,NA,NA
+15,15,Bruce Springsteen,"Streets Of Philadelphia (From ""Philadelphia"")",20,5,NA,NA,NA,NA
+16,16,Crash Test Dummies,Mmm Mmm Mmm Mmm,23,8,NA,NA,NA,NA
+17,1,Mariah Carey,Hero,14,22,NA,NA,NA,NA
+18,18,Zhane,Groove Thang,18,10,NA,NA,NA,NA
+19,8,Xscape,Understanding ,15,13,NA,NA,NA,NA
+20,19,Eternal,Stay,19,10,NA,NA,NA,NA
+21,21,Prince,The Most Beautiful Girl In The World,34,3,NA,NA,NA,NA
+22,11,"10,000 Maniacs",Because The Night,17,20,NA,NA,NA,NA
+23,15,Jodeci,Cry For You,21,17,NA,NA,NA,NA
+24,24,Phil Collins,Everyday,30,8,NA,NA,NA,NA
+25,2,Ace Of Base,All That She Wants,24,27,NA,NA,NA,NA
+26,7,Bryan Adams,Please Forgive Me,22,22,NA,NA,NA,NA
+27,24,Aerosmith,Amazing,27,16,NA,NA,NA,NA
+28,28,Tim McGraw,Indian Outlaw,54,3,NA,NA,NA,NA
+29,8,The Cranberries,Linger,28,22,NA,NA,NA,NA
+30,30,Big Mountain,"Baby I Love Your Way (From ""Reality Bites"")",45,4,NA,NA,NA,NA
+31,25, Gin Blossoms,Found Out About You,26,18,NA,NA,NA,NA
+32,4,Salt-N-Pepa,Shoop,29,24,NA,NA,NA,NA
+33,9,Tevin Campbell,Can We Talk,32,23,NA,NA,NA,NA
+34,34,CeCe Peniston,I'm In The Mood,41,12,NA,NA,NA,NA
+35,23,Color Me Badd,Choose,31,10,NA,NA,NA,NA
+36,36,Mint Condition,U Send Me Swingin',42,9,NA,NA,NA,NA
+37,1,Janet Jackson,Again,33,22,NA,NA,NA,NA
+38,2,Tag Team, Whoomp! (There It Is),36,43,NA,NA,NA,NA
+39,26,Gabrielle,Dreams,40,24,NA,NA,NA,NA
+40,6,Michael Bolton,Said I Loved You...But I Lied,35,20,NA,NA,NA,NA
+41,7,Domino,Getto Jam,25,17,NA,NA,NA,NA
+42,31,Tony Toni Tone,(Lay Your Head On My) Pillow,37,10,NA,NA,NA,NA
+43,15,Babyface,Never Keeping Secrets,38,22,NA,NA,NA,NA
+44,44,Tevin Campbell,I'm Ready,66,2,NA,NA,NA,NA
+45,18,Jimmy Cliff,"I Can See Clearly Now (From ""Cool Runnings"")",43,20,NA,NA,NA,NA
+46,46,12 Gauge,Dunkie Butt (Please Please Please),49,11,NA,NA,NA,NA
+47,47,Shaquille O'Neal,I'm Outstanding,53,4,NA,NA,NA,NA
+48,37,Beck,Loser,39,8,NA,NA,NA,NA
+49,49,Lighter Shade Of Brown,"Hey D.J. (From ""Mi Vida Loca"")",50,5,NA,NA,NA,NA
+50,46,M.C. Hammer,It's All Good,46,6,NA,NA,NA,NA
+51,51,Danzig,Mother,56,6,NA,NA,NA,NA
+52,36,Rod Stewart,Having A Party,47,12,NA,NA,NA,NA
+53,39,Heart,Will You Be There (In The Morning),48,13,NA,NA,NA,NA
+54,23,Queen Latifah,U.N.I.T.Y.,52,17,NA,NA,NA,NA
+55,55,Babyface,And Our Feelings,59,3,NA,NA,NA,NA
+56,42,John Michael Montgomery,I Swear,51,6,NA,NA,NA,NA
+57,57,Ice Cube,You Know How We Do It,57,6,NA,NA,NA,NA
+58,44,The Breeders,Cannonball,44,16,NA,NA,NA,NA
+59,59,Nine Inch Nails,March Of The Pigs,91,2,NA,NA,NA,NA
+60,60,OutKast,Player's Ball,69,4,NA,NA,NA,NA
+61,61,Enigma,Return To Innocence,64,3,NA,NA,NA,NA
+62,17,Culture Beat,Mr. Vain,55,20,NA,NA,NA,NA
+63,63,Queen Latifah,Just Another Day,68,2,NA,NA,NA,NA
+64,64,Bonnie Raitt ,Love Sneakin' Up On You,90,2,NA,NA,NA,NA
+65,61,K7,Zunga Zeng,61,8,NA,NA,NA,NA
+66,54,SWV,Always On My Mind,62,11,NA,NA,NA,NA
+67,67,Gang Starr,Mass Appeal,81,3,NA,NA,NA,NA
+68,63,Aretha Franklin,"A Deeper Love (From ""Sister Act 2"")",70,6,NA,NA,NA,NA
+69,69,Guns N' Roses,Since I Don't Have You,72,3,NA,NA,NA,NA
+70,41,Haddaway,Life (Everybody Needs Somebody To Love),60,13,NA,NA,NA,NA
+71,71,Dawn Penn,"You Don't Love Me (No, No, No)",73,4,NA,NA,NA,NA
+72,NA, The Conscious Daughters,Somethin' To Ride To (Fonky Expedition),NA,NA,NA,NA,NA,NA
+73,56,Collage,I'll Be Loving You,67,17,NA,NA,NA,NA
+74,74,Little Texas,What Might Have Been,74,18,NA,NA,NA,NA
+75,75,Melissa Etheridge,Come To My Window,84,4,NA,NA,NA,NA
+76,NA,A Tribe Called Quest,Electric Relaxation (Relax Yourself Girl),NA,NA,NA,NA,NA,NA
+77,29,Billy Joel,All About Soul,65,20,NA,NA,NA,NA
+78,64,James,Laid,77,7,NA,NA,NA,NA
+79,79,Tori Amos,God,79,5,NA,NA,NA,NA
+80,NA,Morrissey,"The More You Ignore Me, The Closer I Get",NA,NA,NA,NA,NA,NA
+81,39,Def Leppard,Miss You In A Heartbeat,63,15,NA,NA,NA,NA
+82,53,Lisette Melendez,Goody Goody,71,15,NA,NA,NA,NA
+83,83,Mr. Big,Ain't Seen Love Like That,85,4,NA,NA,NA,NA
+84,63, Sagat,Funk Dat/Why Is It?,76,12,NA,NA,NA,NA
+85,78,Deep Forest,Sweet Lullaby,78,4,NA,NA,NA,NA
+86,82,Jodeci,Feenin',82,2,NA,NA,NA,NA
+87,8,Snoop Dogg,What's My Name?,75,16,NA,NA,NA,NA
+88,63,Mary J. Blige, You Don't Have To Worry,86,12,NA,NA,NA,NA
+89,NA,Juliet Roberts,I Want You,NA,NA,NA,NA,NA,NA
+90,80,Lenny Kravitz,Heaven Help/Spinning Around Over You,80,3,NA,NA,NA,NA
+91,NA,Michael Bolton,Completely,NA,NA,NA,NA,NA,NA
+92,86,Little Texas,My Love,92,4,NA,NA,NA,NA
+93,93,Masta Ace Incorporated,Born To Roll,94,2,NA,NA,NA,NA
+94,70,Chantay Savage,Betcha'll Never Find,88,14,NA,NA,NA,NA
+95,NA,The Brand New Heavies,Dream On Dreamer,NA,NA,NA,NA,NA,NA
+96,96,Wu-Tang Clan,C.R.E.A.M. (Cash Rules Everything Around Me),96,2,NA,NA,NA,NA
+97,97, Sudden Change,Comin' On Strong,97,2,NA,NA,NA,NA
+98,89,Reel 2 Real Featuring The Mad Stuntman,I Like To Move It,89,2,NA,NA,NA,NA
+99,NA,Candlebox,You,NA,NA,NA,NA,NA,NA
+100,97,Brooks & Dunn,Rock My World (Little Country Girl),98,3,NA,NA,NA,NA

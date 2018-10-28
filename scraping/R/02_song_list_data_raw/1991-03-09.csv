@@ -1,0 +1,101 @@
+rank,peak,artist,title,last_week,weeks_on_chart,no_1_weeks_no_1,no_1_last_week,no_1_last_week_weeks_at_one,no_1_weeks_on_chart
+1,1,Mariah Carey,Someday,NA,NA,NA,2,2LAST WEEK,8WEEKS ON CHART
+2,2,Timmy T.,One More Try,3,12,NA,NA,NA,NA
+3,1,Whitney Houston ,All The Man That I Need,1,12,NA,NA,NA,NA
+4,4,Celine Dion, Where Does My Heart Beat Now,4,14,NA,NA,NA,NA
+5,5,Styx,Show Me The Way,7,14,NA,NA,NA,NA
+6,6,Sting,All This Time,8,8,NA,NA,NA,NA
+7,1,C+C Music Factory,Gonna Make You Sweat (Everybody Dance Now) ,5,17,NA,NA,NA,NA
+8,8,Tracie Spencer,This House,13,12,NA,NA,NA,NA
+9,9,Gloria Estefan,Coming Out Of The Dark,10,7,NA,NA,NA,NA
+10,6,Chris Isaak,Wicked Game,6,15,NA,NA,NA,NA
+11,11,Oleta Adams,Get Here,14,13,NA,NA,NA,NA
+12,9,LL Cool J,Around The Way Girl,9,15,NA,NA,NA,NA
+13,13,Tara Kemp,Hold You Tight,19,8,NA,NA,NA,NA
+14,14,Madonna,Rescue Me,15,2,NA,NA,NA,NA
+15,15,Alias,Waiting For Love,17,8,NA,NA,NA,NA
+16,16,Tesla, Signs,20,10,NA,NA,NA,NA
+17,17,Another Bad Creation,Iesha,18,9,NA,NA,NA,NA
+18,18,Londonbeat,I've Been Thinking About You,25,5,NA,NA,NA,NA
+19,19,Wilson Phillips,You're In Love,29,5,NA,NA,NA,NA
+20,16,Bad Company,If You Needed Somebody,16,18,NA,NA,NA,NA
+21,21, Tevin Campbell,Round And Round,24,14,NA,NA,NA,NA
+22,1,Surface,The First Time,11,19,NA,NA,NA,NA
+23,23,Enigma,Sadeness Part 1,35,5,NA,NA,NA,NA
+24,24,Gerardo,Rico Suave,34,6,NA,NA,NA,NA
+25,25,Father M.C.,I'll Do 4 U,28,9,NA,NA,NA,NA
+26,26,Stevie B,I'll Be By Your Side,31,6,NA,NA,NA,NA
+27,10,Warrant,I Saw Red,12,15,NA,NA,NA,NA
+28,21,Urban Dance Squad,Deeper Shade Of Soul,21,13,NA,NA,NA,NA
+29,7,Keith Sweat,I'll Give All My Love To You,23,15,NA,NA,NA,NA
+30,30,Robert Palmer,Mercy Mercy Me (The Ecology)/I Want You,39,4,NA,NA,NA,NA
+31,27,George Michael,Waiting For That Day,27,8,NA,NA,NA,NA
+32,NA, Whitney Houston,The Star Spangled Banner,NA,NA,NA,NA,NA,NA
+33,33,Amy Grant,Baby Baby,48,3,NA,NA,NA,NA
+34,34,Michel'le,Something In My Heart,38,9,NA,NA,NA,NA
+35,13,Pebbles,Love Makes Things Happen,22,15,NA,NA,NA,NA
+36,36,Rick Astley,Cry For Help,44,4,NA,NA,NA,NA
+37,37,Susanna Hoffs,My Side Of The Bed,40,6,NA,NA,NA,NA
+38,8,INXS,Disappear,26,16,NA,NA,NA,NA
+39,39,Chicago,Chasin' The Wind,42,7,NA,NA,NA,NA
+40,1,Janet Jackson,Love Will Never Do (Without You),30,17,NA,NA,NA,NA
+41,41,Roxette,Joyride,57,2,NA,NA,NA,NA
+42,42,The Rembrandts,"Just The Way It Is, Baby",49,5,NA,NA,NA,NA
+43,3,Damn Yankees,High Enough,33,25,NA,NA,NA,NA
+44,44,Bingo Boys Featuring Princessa, How To Dance,54,4,NA,NA,NA,NA
+45,45,Lisette Melendez,Together Forever,53,6,NA,NA,NA,NA
+46,4,Vanilla Ice,Play That Funky Music,32,14,NA,NA,NA,NA
+47,47,Hi-Five,I Like The Way (The Kissing Game),73,3,NA,NA,NA,NA
+48,48,Poison,Ride The Wind,51,6,NA,NA,NA,NA
+49,46,George Michael ,Mother's Pride,46,6,NA,NA,NA,NA
+50,6,Nelson,After The Rain,36,19,NA,NA,NA,NA
+51,51,Winger,Easy Come Easy Go,56,5,NA,NA,NA,NA
+52,52, Cathy Dennis,Touch Me (All Night Long),78,2,NA,NA,NA,NA
+53,53,The Escape Club,Call It Poison,60,3,NA,NA,NA,NA
+54,NA,The Peace Choir,Give Peace A Chance,NA,NA,NA,NA,NA,NA
+55,55,The Cover Girls,Funk Boutique,59,5,NA,NA,NA,NA
+56,56,C+C Music Factory/F. Williams,Here We Go,82,2,NA,NA,NA,NA
+57,9,Cathy Dennis,Just Another Dream,47,20,NA,NA,NA,NA
+58,19,After 7,Heat Of The Moment,43,28,NA,NA,NA,NA
+59,23, AC/DC,Moneytalks,41,14,NA,NA,NA,NA
+60,NA,The Rude Boys,Written All Over Your Face,NA,NA,NA,NA,NA,NA
+61,61,Ralph Tresvant,Stone Cold Gentleman,69,3,NA,NA,NA,NA
+62,62, Harriet,Temple Of Love,68,4,NA,NA,NA,NA
+63,4,Ralph Tresvant,Sensitivity,37,19,NA,NA,NA,NA
+64,64,Vanilla Ice,I Love You,76,3,NA,NA,NA,NA
+65,65,Guy,Let's Chill ,71,3,NA,NA,NA,NA
+66,34,Tony Toni Tone,It Never Rains (In Southern California),45,12,NA,NA,NA,NA
+67,54,Donny Osmond,Sure Lookin',55,8,NA,NA,NA,NA
+68,68,Shawn Christopher ,Another Sleepless Night,72,4,NA,NA,NA,NA
+69,7,Will To Power,I'm Not In Love,52,17,NA,NA,NA,NA
+70,54,M.C. Hammer,Here Comes The Hammer,66,10,NA,NA,NA,NA
+71,2,Bette Midler,From A Distance,50,23,NA,NA,NA,NA
+72,64,Heart,Secret,64,6,NA,NA,NA,NA
+73,73,Alexander O'Neal,All True Man,81,3,NA,NA,NA,NA
+74,39,Slaughter,Spend My Life,58,12,NA,NA,NA,NA
+75,42, Guys Next Door,I've Been Waiting For You,61,10,NA,NA,NA,NA
+76,19,The Righteous Brothers,Unchained Melody,75,23,NA,NA,NA,NA
+77,77,The Party,That's Why,96,2,NA,NA,NA,NA
+78,NA,Divinyls,I Touch Myself,NA,NA,NA,NA,NA,NA
+79,NA,Great White,Call It Rock N' Roll,NA,NA,NA,NA,NA,NA
+80,41,Daryl Hall John Oates ,Don't Hold Back Your Love,67,10,NA,NA,NA,NA
+81,NA,Nelson,More Than Ever,NA,NA,NA,NA,NA,NA
+82,62,Bette Midler,Night And Day,63,7,NA,NA,NA,NA
+83,83,Little Caesar,In Your Arms,89,2,NA,NA,NA,NA
+84,84,SaFire,Made Up My Mind,98,2,NA,NA,NA,NA
+85,47,Deee-Lite,Power Of Love,62,10,NA,NA,NA,NA
+86,NA,Firehouse,Don't Treat Me Bad,NA,NA,NA,NA,NA,NA
+87,63,Bell Biv DeVoe,When Will I See You Smile Again?,80,8,NA,NA,NA,NA
+88,46,2nu,This Is Ponderous,65,12,NA,NA,NA,NA
+89,49,George LaMond (Duet With Brenda K. Starr),No Matter What,79,15,NA,NA,NA,NA
+90,1,Mariah Carey,Love Takes Time,84,26,NA,NA,NA,NA
+91,33, Cher,The Shoop Shoop Song (It's In His Kiss),77,16,NA,NA,NA,NA
+92,23,Black Box,I Don't Know Anybody Else,70,14,NA,NA,NA,NA
+93,1,Stevie B,Because I Love You (The Postman Song),83,23,NA,NA,NA,NA
+94,NA,The Rolling Stones,Highwire,NA,NA,NA,NA,NA,NA
+95,69,Jude Cole,House Full Of Reasons,93,15,NA,NA,NA,NA
+96,12,Winger, Miles Away,74,22,NA,NA,NA,NA
+97,NA,Elisa Fiorillo,Oooh This I Need,NA,NA,NA,NA,NA,NA
+98,NA,Jellyfish,Baby's Coming Back,NA,NA,NA,NA,NA,NA
+99,79,ZZ Top,Give It Up,88,5,NA,NA,NA,NA
+100,90,Jellybean Featuring Niki Haris,What's It Gonna Be,91,5,NA,NA,NA,NA
