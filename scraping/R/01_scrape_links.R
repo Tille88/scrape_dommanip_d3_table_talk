@@ -3,7 +3,7 @@ library(rvest)
 library(readr)
 
 #Set working directory
-setwd("./git/coderbunker/table_proj/scraping/01_yearly_links/")
+setwd("/Users/jonastillman/git/coderbunker/table_proj/scraping/R/01_yearly_links/")
 
 # Constants
 SLEEP_INTERVAL = 3 #s
@@ -11,7 +11,7 @@ BASE_URL = "https://www.billboard.com"
 
 main = function(){
   
-  years_to_scrape = seq(1990, 2000)
+  years_to_scrape = c(1990)#seq(1990, 2000)
   
   for(year in years_to_scrape){
     #Specifying the url for desired website to be scrapped
@@ -22,6 +22,7 @@ main = function(){
     write_csv(data.frame(link_list), paste0(year, ".csv"))
     
     # Why not take a little nap...
+    closeAllConnections()
     Sys.sleep(SLEEP_INTERVAL)
   }
   
@@ -31,6 +32,7 @@ main = function(){
 
 # a list of links to billboard yearly list
 get_yearly_link_list = function(url){
+  message("get yearly link list ", url)
   #Reading the HTML code from the website
   webpage = read_html(url)
   

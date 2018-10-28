@@ -1,6 +1,3 @@
-# data-src !!!!!
-
-
 #Packages
 library(rvest)
 library(readr)
@@ -9,17 +6,18 @@ library(plyr)
 library(purrr)
 
 #Set working directory (silly, but assumes following step 1...)
-setwd("/Users/jonastillman/git/coderbunker/table_proj/scraping/")
+setwd("/Users/jonastillman/git/coderbunker/table_proj/scraping/R/")
 relative_year_path = "./01_yearly_links/"
 
 # Constants
-SLEEP_INTERVAL = 2 #s
+SLEEP_INTERVAL = 0.25 #s
 
 # Read in the data from before
 file_vector = list.files(relative_year_path)
 link_list = lapply(paste0(relative_year_path, file_vector), read_csv) %>%
   unlist()
 
+link_list = link_list[36]
 
 # Util functions
 safe_extract_nodecontent = function(node, selector){
@@ -31,8 +29,15 @@ safe_extract_nodecontent = function(node, selector){
   return(res)
 }
 
+get_image_links = function(webpage){
+  img_elems = html_nodes(webpage,"img.chart-list-item__image")
+  img_link_list = img_elems %>% html_attr("data-src")
+  return(img_link_list)
+}
+
 file_cntr = 0
 files_tot = length(link_list)
+
 for(url in link_list){
   message("reading in ", url)
   file_cntr = file_cntr + 1
@@ -62,7 +67,6 @@ for(url in link_list){
   no_1_weeks_on_chart = html_nodes(webpage,'.chart-number-one__stats-cell')[3] %>%
       html_text() %>%
       str_remove_all("\n")
-
   # Generic rest of listed songs, using ".chart-details .chart-list-item  "
   #used inconsistently inserted spaces, making parsing difficult
   chart_items = html_nodes(webpage,".chart-list-item")
@@ -78,6 +82,7 @@ for(url in link_list){
     as.numeric()
   weeks_on_chart_list = lapply(chart_items, safe_extract_nodecontent, ".chart-list-item__weeks-on-chart") %>%
     as.numeric
+  img_links = get_image_links(webpage)
 
 
   # Have lists, want excel-like format
@@ -91,7 +96,8 @@ for(url in link_list){
     no_1_weeks_no_1 = no_1_weeks_no_1,
     no_1_last_week = no_1_last_week,
     no_1_last_week_weeks_at_one = no_1_last_week_weeks_at_one,
-    no_1_weeks_on_chart = no_1_weeks_on_chart
+    no_1_weeks_on_chart = no_1_weeks_on_chart,
+    img_link = NA
   )
 
 
@@ -105,15 +111,21 @@ for(url in link_list){
     no_1_weeks_no_1 = NA,
     no_1_last_week = NA,
     no_1_last_week_weeks_at_one = NA,
-    no_1_weeks_on_chart = NA
+    no_1_weeks_on_chart = NA,
+    img_link = img_links %>% lapply(function(url){
+      url %>% str_split("/") %>% unlist() %>% tail(1)
+    }) %>% unlist()
   )
 
   combined = rbind(no_1_df, rest_df)
 
-  file_name = paste0("./02_song_list_data_raw/", date, ".csv")
+  file_name_song_list = paste0("./02_song_list_data_raw/", date, ".csv")
 
-  write_csv(combined, file_name)
-  message("written ", file_name)
-
+  write_csv(combined, file_name_song_list)
+  message("written ", file_name_song_list)
+  file_name_img_link = paste0("./02_img_links/", date, ".csv")
+  write_csv(data.frame(image_link = img_links), file_name_img_link)
+  
   Sys.sleep(SLEEP_INTERVAL)
 }
+

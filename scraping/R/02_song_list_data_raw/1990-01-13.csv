@@ -1,101 +1,101 @@
-rank,peak,artist,title,last_week,weeks_on_chart,no_1_weeks_no_1,no_1_last_week,no_1_last_week_weeks_at_one,no_1_weeks_on_chart
-1,1,Phil Collins,Another Day In Paradise,NA,NA,4,NA,4 WEEKS AT NO. 1,11WEEKS ON CHART
-2,2,Janet Jackson,Rhythm Nation,2,10,NA,NA,NA,NA
-3,3,Technotronic Featuring Felly,Pump Up The Jam,4,14,NA,NA,NA,NA
-4,4,Michael Bolton,How Am I Supposed To Live Without You,6,12,NA,NA,NA,NA
-5,2,Linda Ronstadt (Featuring Aaron Neville),Don't Know Much ,3,16,NA,NA,NA,NA
-6,6,Jody Watley,Everything,10,14,NA,NA,NA,NA
-7,7,New Kids On The Block,This One's For The Children,7,10,NA,NA,NA,NA
-8,8,Cher,Just Like Jesse James,8,13,NA,NA,NA,NA
-9,5,Taylor Dayne,With Every Beat Of My Heart,5,13,NA,NA,NA,NA
-10,10,Lou Gramm,Just Between You And Me,13,12,NA,NA,NA,NA
-11,11,Jive Bunny & The Mastermixers,Swing The Mood,12,12,NA,NA,NA,NA
-12,12,Rod Stewart,Downtown Train,16,8,NA,NA,NA,NA
-13,13,Tom Petty,Free Fallin',14,11,NA,NA,NA,NA
-14,14,Tesla,Love Song,15,16,NA,NA,NA,NA
-15,15,Seduction,Two To Make It Right,18,10,NA,NA,NA,NA
-16,1,Billy Joel,We Didn't Start The Fire,9,14,NA,NA,NA,NA
-17,17,Joe Cocker,When The Night Comes,17,12,NA,NA,NA,NA
-18,4,Soul II Soul,Back To Life,11,17,NA,NA,NA,NA
-19,19,Skid Row,I Remember You,22,9,NA,NA,NA,NA
-20,20,Aerosmith,Janie's Got A Gun,24,8,NA,NA,NA,NA
-21,1,Milli Vanilli,Blame It On The Rain,21,15,NA,NA,NA,NA
-22,22,Quincy Jones Featuring Ray Charles & Chaka Khan,I'll Be Good To You,25,9,NA,NA,NA,NA
-23,23,Eddie Money,Peace In Our Time,27,7,NA,NA,NA,NA
-24,20,Madonna,Oh Father,20,10,NA,NA,NA,NA
-25,25,Babyface,Tender Lover,26,9,NA,NA,NA,NA
-26,26,Paula Abdul (Duet With The Wild Pair),Opposites Attract,32,5,NA,NA,NA,NA
-27,23,The Rolling Stones,Rock And A Hard Place,23,11,NA,NA,NA,NA
-28,9,Bon Jovi,Living In Sin,19,15,NA,NA,NA,NA
-29,29,Chicago ,What Kind Of Man Would I Be?,29,7,NA,NA,NA,NA
-30,30,Expose,Tell Me Why,31,6,NA,NA,NA,NA
-31,3,The B-52s,Love Shack,28,20,NA,NA,NA,NA
-32,32,Michael Damian,Was It Nothing At All,34,12,NA,NA,NA,NA
-33,33,Motley Crue,Kickstart My Heart ,37,8,NA,NA,NA,NA
-34,34,Young M.C.,Principal's Office,35,8,NA,NA,NA,NA
-35,35,Roxette,Dangerous,40,5,NA,NA,NA,NA
-36,11,KIX,Don't Close Your Eyes,30,19,NA,NA,NA,NA
-37,37,Gloria Estefan,Here We Are,44,5,NA,NA,NA,NA
-38,38,The Cover Girls,We Can't Go Wrong,45,6,NA,NA,NA,NA
-39,39,Milli Vanilli,All Or Nothing,51,2,NA,NA,NA,NA
-40,40,Shana,I Want You,41,15,NA,NA,NA,NA
-41,7, Young M.C.,Bust A Move,36,25,NA,NA,NA,NA
-42,39,Tina Turner,Steamy Windows,39,8,NA,NA,NA,NA
-43,43,Poco,Nothin' To Hide,43,7,NA,NA,NA,NA
-44,44,Michel'le,No More Lies,48,9,NA,NA,NA,NA
-45,45,Bad English,Price Of Love,53,4,NA,NA,NA,NA
-46,3,Paula Abdul,(It's Just) The Way That You Love Me,33,22,NA,NA,NA,NA
-47,1,Bad English,When I See You Smile,38,18,NA,NA,NA,NA
-48,20,Sybil ,Don't Make Me Over,42,17,NA,NA,NA,NA
-49,49,Tears For Fears,Woman In Chains,54,7,NA,NA,NA,NA
-50,26,The 2 Live Crew,Me So Horny,50,19,NA,NA,NA,NA
-51,51,Jaya,If You Leave Me Now,52,14,NA,NA,NA,NA
-52,52,Fiona (Duet With Kip Winger),Everything You Do (You're Sexing Me),56,8,NA,NA,NA,NA
-53,21,Don Henley,The Last Worthless Evening,47,15,NA,NA,NA,NA
-54,37,Whitesnake,Fool For Your Loving,46,19,NA,NA,NA,NA
-55,55,Bonham,Wait For You,58,8,NA,NA,NA,NA
-56,56,D-Mob Introducing Cathy Dennis,C'mon And Get My Love,61,5,NA,NA,NA,NA
-57,57,The B-52s,Roam,70,4,NA,NA,NA,NA
-58,4,Richard Marx,Angelia,49,15,NA,NA,NA,NA
-59,59,Marcia Griffiths,Electric Boogie,59,6,NA,NA,NA,NA
-60,60,Depeche Mode,Personal Jesus,67,6,NA,NA,NA,NA
-61,61,SaFire,I Will Survive,62,5,NA,NA,NA,NA
-62,7,Alice Cooper,Poison,57,17,NA,NA,NA,NA
-63,63,Luther Vandross,Here And Now,69,4,NA,NA,NA,NA
-64,11,Belinda Carlisle,Leave A Light On,55,16,NA,NA,NA,NA
-65,30,Great White,The Angel Song,66,16,NA,NA,NA,NA
-66,64,Jermaine Jackson,Don't Take It Personal,64,7,NA,NA,NA,NA
-67,NA,Billy Joel ,I Go To Extremes,NA,NA,NA,NA,NA,NA
-68,68,Kenny G,Going Home,71,2,NA,NA,NA,NA
-69,31,Paul Carrack,I Live By The Groove,60,12,NA,NA,NA,NA
-70,59,Pajama Party,Over And Over,68,10,NA,NA,NA,NA
-71,71,Warrant,Sometimes She Cries,81,2,NA,NA,NA,NA
-72,72,Dino,Never 2 Much Of U,74,5,NA,NA,NA,NA
-73,73, Neneh Cherry,Heart,73,6,NA,NA,NA,NA
-74,36,Prince With Sheena Easton,The Arms Of Orion,63,13,NA,NA,NA,NA
-75,75,The Smithereens,A Girl Like You,77,6,NA,NA,NA,NA
-76,18,Kevin Paige,Don't Shut Me Out,65,22,NA,NA,NA,NA
-77,55,Eric Clapton,Pretending,72,9,NA,NA,NA,NA
-78,78,Michael Penn,No Myth,85,2,NA,NA,NA,NA
-79,1,Roxette,Listen To Your Heart,75,21,NA,NA,NA,NA
-80,80,Alannah Myles,Black Velvet,86,2,NA,NA,NA,NA
-81,11,Gloria Estefan, Get On Your Feet,80,16,NA,NA,NA,NA
-82,75,Christopher Max,Serious Kinda Girl,76,7,NA,NA,NA,NA
-83,8,New Kids On The Block,Didn't I (Blow Your Mind),78,18,NA,NA,NA,NA
-84,66,KISS, Hide Your Heart,83,8,NA,NA,NA,NA
-85,74,The Cure,Lullaby,82,7,NA,NA,NA,NA
-86,84,Loverboy,Too Hot,84,4,NA,NA,NA,NA
-87,NA,Elton John,Sacrifice,NA,NA,NA,NA,NA,NA
-88,NA,Entouch Featuring Keith Sweat,All Nite,NA,NA,NA,NA,NA,NA
-89,89,Abstrac',Right And Hype,89,4,NA,NA,NA,NA
-90,7,Bobby Brown,Rock Wit'cha,79,21,NA,NA,NA,NA
-91,NA,Saraya ,"Timeless Love (From ""Shocker"")",NA,NA,NA,NA,NA,NA
-92,NA,Paul McCartney,Figure Of Eight,NA,NA,NA,NA,NA,NA
-93,56,Stevie B,Girl I Am Searching For You,91,15,NA,NA,NA,NA
-94,84,Diving For Pearls,Gimme Your Good Lovin',87,6,NA,NA,NA,NA
-95,2,New Kids On The Block,Cover Girl,97,18,NA,NA,NA,NA
-96,50,Lil Louis,French Kiss,88,13,NA,NA,NA,NA
-97,1,Janet Jackson,Miss You Much,92,20,NA,NA,NA,NA
-98,90,Sharon Bryant,Foolish Heart,94,5,NA,NA,NA,NA
-99,81,Michael Morales,I Don't Know,90,6,NA,NA,NA,NA
-100,75,Starship,I Didn't Mean To Stay All Night,93,8,NA,NA,NA,NA
+rank,peak,artist,title,last_week,weeks_on_chart,no_1_weeks_no_1,no_1_last_week,no_1_last_week_weeks_at_one,no_1_weeks_on_chart,img_link
+1,1,Phil Collins,Another Day In Paradise,NA,NA,4,NA,4WEEKS AT NO. 1,11WEEKS ON CHART,NA
+2,2,Janet Jackson,Rhythm Nation,2,10,NA,NA,NA,NA,janet-jackson-exg-53x53.jpg
+3,3,Technotronic Featuring Felly,Pump Up The Jam,4,14,NA,NA,NA,NA,technotronic-5tm-53x53.jpg
+4,4,Michael Bolton,How Am I Supposed To Live Without You,6,12,NA,NA,NA,NA,michael-bolton-53x53.jpg
+5,2,Linda Ronstadt (Featuring Aaron Neville),Don't Know Much,3,16,NA,NA,NA,NA,aaron-neville-wa6-53x53.jpg
+6,6,Jody Watley,Everything,10,14,NA,NA,NA,NA,jody-watley-11l-53x53.jpg
+7,7,New Kids On The Block,This One's For The Children,7,10,NA,NA,NA,NA,new-kids-on-the-block-53x53.jpg
+8,8,Cher,Just Like Jesse James,8,13,NA,NA,NA,NA,cher-9v4-53x53.jpg
+9,5,Taylor Dayne,With Every Beat Of My Heart,5,13,NA,NA,NA,NA,taylor-dayne-j3h-53x53.jpg
+10,10, Lou Gramm,Just Between You And Me,13,12,NA,NA,NA,NA,lou-gramm-b5a-53x53.jpg
+11,11,Jive Bunny & The Mastermixers,Swing The Mood,12,12,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+12,12,Rod Stewart,Downtown Train,16,8,NA,NA,NA,NA,rod-stewart-ao5-53x53.jpg
+13,13,Tom Petty,Free Fallin',14,11,NA,NA,NA,NA,tom-petty-and-the-heartbreakers-eog-53x53.jpg
+14,14,Tesla,Love Song,15,16,NA,NA,NA,NA,tesla-rcz-53x53.jpg
+15,15,Seduction, Two To Make It Right,18,10,NA,NA,NA,NA,seduction-tw8-53x53.jpg
+16,1,Billy Joel,We Didn't Start The Fire,9,14,NA,NA,NA,NA,billy-joel-wt1-53x53.jpg
+17,17,Joe Cocker,When The Night Comes,17,12,NA,NA,NA,NA,joe-cocker-nqn-53x53.jpg
+18,4,Soul II Soul,Back To Life,11,17,NA,NA,NA,NA,soul-ii-soul-v8v-53x53.jpg
+19,19,Skid Row ,I Remember You,22,9,NA,NA,NA,NA,skid-row-4qg-53x53.jpg
+20,20,Aerosmith,Janie's Got A Gun,24,8,NA,NA,NA,NA,aerosmith-7n5-53x53.jpg
+21,1,Milli Vanilli,Blame It On The Rain,21,15,NA,NA,NA,NA,milli-vanilli-by8-53x53.jpg
+22,22,Quincy Jones Featuring Ray Charles & Chaka Khan,I'll Be Good To You,25,9,NA,NA,NA,NA,quincy-jones-3md-53x53.jpg
+23,23,Eddie Money,Peace In Our Time,27,7,NA,NA,NA,NA,eddie-money-wyy-53x53.jpg
+24,20,Madonna,Oh Father,20,10,NA,NA,NA,NA,madonna-53x53.jpg
+25,25,Babyface,Tender Lover,26,9,NA,NA,NA,NA,babyface-qq8-53x53.jpg
+26,26,Paula Abdul (Duet With The Wild Pair),Opposites Attract,32,5,NA,NA,NA,NA,paula-abdul-psi-53x53.jpg
+27,23,The Rolling Stones,Rock And A Hard Place,23,11,NA,NA,NA,NA,the-rolling-stones-53x53.jpg
+28,9,Bon Jovi,Living In Sin,19,15,NA,NA,NA,NA,bon-jovi-53x53.jpg
+29,29,Chicago,What Kind Of Man Would I Be?,29,7,NA,NA,NA,NA,chicago-46u-53x53.jpg
+30,30,Expose,Tell Me Why,31,6,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+31,3,The B-52s,Love Shack,28,20,NA,NA,NA,NA,the-b52s-53x53.jpg
+32,32,Michael Damian,Was It Nothing At All,34,12,NA,NA,NA,NA,michael-damian-dlx-53x53.jpg
+33,33,Motley Crue,Kickstart My Heart,37,8,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+34,34,Young M.C.,Principal's Office,35,8,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+35,35,Roxette,Dangerous,40,5,NA,NA,NA,NA,roxette-cd8-53x53.jpg
+36,11,KIX,Don't Close Your Eyes,30,19,NA,NA,NA,NA,kix-53x53.jpg
+37,37,Gloria Estefan,Here We Are,44,5,NA,NA,NA,NA,gloria-estefan-53x53.jpg
+38,38,The Cover Girls,We Can't Go Wrong,45,6,NA,NA,NA,NA,the-cover-girls-tsx-53x53.jpg
+39,39,Milli Vanilli,All Or Nothing,51,2,NA,NA,NA,NA,milli-vanilli-by8-53x53.jpg
+40,40,Shana,I Want You,41,15,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+41,7,Young M.C.,Bust A Move,36,25,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+42,39,Tina Turner,Steamy Windows,39,8,NA,NA,NA,NA,tina-turner-zqk-53x53.jpg
+43,43,Poco,Nothin' To Hide,43,7,NA,NA,NA,NA,poco-czh-53x53.jpg
+44,44,Michel'le,No More Lies,48,9,NA,NA,NA,NA,michelle-53x53.jpg
+45,45,Bad English,Price Of Love,53,4,NA,NA,NA,NA,bad-english-knp-53x53.jpg
+46,3,Paula Abdul,(It's Just) The Way That You Love Me,33,22,NA,NA,NA,NA,paula-abdul-psi-53x53.jpg
+47,1,Bad English,When I See You Smile,38,18,NA,NA,NA,NA,bad-english-knp-53x53.jpg
+48,20,Sybil,Don't Make Me Over,42,17,NA,NA,NA,NA,sybil-de8-53x53.jpg
+49,49,Tears For Fears,Woman In Chains,54,7,NA,NA,NA,NA,tears-for-fears-cum-53x53.jpg
+50,26,The 2 Live Crew ,Me So Horny,50,19,NA,NA,NA,NA,the-2-live-crew-j6x-53x53.jpg
+51,51,Jaya,If You Leave Me Now,52,14,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+52,52,Fiona (Duet With Kip Winger),Everything You Do (You're Sexing Me),56,8,NA,NA,NA,NA,fiona-mg9-53x53.jpg
+53,21,Don Henley,The Last Worthless Evening,47,15,NA,NA,NA,NA,don-henley-53x53.jpg
+54,37,Whitesnake,Fool For Your Loving,46,19,NA,NA,NA,NA,whitesnake-4bv-53x53.jpg
+55,55,Bonham,Wait For You,58,8,NA,NA,NA,NA,bonham-1a0-53x53.jpg
+56,56,D-Mob Introducing Cathy Dennis,C'mon And Get My Love,61,5,NA,NA,NA,NA,d-mob-k40-53x53.jpg
+57,57,The B-52s,Roam,70,4,NA,NA,NA,NA,the-b52s-53x53.jpg
+58,4,Richard Marx,Angelia ,49,15,NA,NA,NA,NA,richard-marx-ct1-53x53.jpg
+59,59,Marcia Griffiths,Electric Boogie,59,6,NA,NA,NA,NA,marcia-griffiths-9ly-53x53.jpg
+60,60,Depeche Mode,Personal Jesus,67,6,NA,NA,NA,NA,depeche-mode-53x53.jpg
+61,61,SaFire,I Will Survive,62,5,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+62,7,Alice Cooper,Poison,57,17,NA,NA,NA,NA,alice-cooper-t1u-53x53.jpg
+63,63,Luther Vandross,Here And Now,69,4,NA,NA,NA,NA,luther-vandross-ycy-53x53.jpg
+64,11,Belinda Carlisle,Leave A Light On,55,16,NA,NA,NA,NA,belinda-carlisle-ile-53x53.jpg
+65,30, Great White,The Angel Song,66,16,NA,NA,NA,NA,great-white-53x53.jpg
+66,64,Jermaine Jackson,Don't Take It Personal,64,7,NA,NA,NA,NA,jermaine-jackson-fx9-53x53.jpg
+67,NA,Billy Joel,I Go To Extremes,NA,NA,NA,NA,NA,NA,billy-joel-wt1-53x53.jpg
+68,68,Kenny G,Going Home,71,2,NA,NA,NA,NA,kenny-g-jn4-53x53.jpg
+69,31,Paul Carrack,I Live By The Groove,60,12,NA,NA,NA,NA,paul-carrack-jmo-53x53.jpg
+70,59,Pajama Party,Over And Over,68,10,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+71,71,Warrant,Sometimes She Cries,81,2,NA,NA,NA,NA,warrant-53x53.jpg
+72,72,Dino,Never 2 Much Of U,74,5,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+73,73,Neneh Cherry,Heart,73,6,NA,NA,NA,NA,neneh-cherry-d1s-53x53.jpg
+74,36,Prince With Sheena Easton,The Arms Of Orion,63,13,NA,NA,NA,NA,prince-vp8-53x53.jpg
+75,75,The Smithereens,A Girl Like You,77,6,NA,NA,NA,NA,the-smithereens-eoz-53x53.jpg
+76,18,Kevin Paige,Don't Shut Me Out,65,22,NA,NA,NA,NA,kevin-paige-y1y-53x53.jpg
+77,55,Eric Clapton,Pretending,72,9,NA,NA,NA,NA,eric-clapton-53x53.jpg
+78,78,Michael Penn,No Myth,85,2,NA,NA,NA,NA,michael-penn-r15-53x53.jpg
+79,1,Roxette,Listen To Your Heart,75,21,NA,NA,NA,NA,roxette-cd8-53x53.jpg
+80,80,Alannah Myles,Black Velvet,86,2,NA,NA,NA,NA,alannah-myles-bdi-53x53.jpg
+81,11,Gloria Estefan,Get On Your Feet,80,16,NA,NA,NA,NA,gloria-estefan-53x53.jpg
+82,75,Christopher Max,Serious Kinda Girl,76,7,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+83,8,New Kids On The Block,Didn't I (Blow Your Mind),78,18,NA,NA,NA,NA,new-kids-on-the-block-53x53.jpg
+84,66,KISS,Hide Your Heart,83,8,NA,NA,NA,NA,kiss-53x53.jpg
+85,74,The Cure,Lullaby,82,7,NA,NA,NA,NA,the-cure-53x53.jpg
+86,84,Loverboy,Too Hot,84,4,NA,NA,NA,NA,loverboy-79r-53x53.jpg
+87,NA,Elton John,Sacrifice,NA,NA,NA,NA,NA,NA,elton-john-qls-53x53.jpg
+88,NA,Entouch Featuring Keith Sweat,All Nite,NA,NA,NA,NA,NA,NA,keith-sweat-53x53.jpg
+89,89,Abstrac',Right And Hype,89,4,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+90,7,Bobby Brown,Rock Wit'cha,79,21,NA,NA,NA,NA,bobby-brown-s9w-53x53.jpg
+91,NA,Saraya,"Timeless Love (From ""Shocker"")",NA,NA,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+92,NA,Paul McCartney,Figure Of Eight,NA,NA,NA,NA,NA,NA,paul-mccartney-ntf-53x53.jpg
+93,56,Stevie B,Girl I Am Searching For You,91,15,NA,NA,NA,NA,stevie-b-ir7-53x53.jpg
+94,84,Diving For Pearls,Gimme Your Good Lovin',87,6,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+95,2,New Kids On The Block,Cover Girl,97,18,NA,NA,NA,NA,new-kids-on-the-block-53x53.jpg
+96,50,Lil Louis ,French Kiss,88,13,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+97,1,Janet Jackson,Miss You Much,92,20,NA,NA,NA,NA,janet-jackson-exg-53x53.jpg
+98,90,Sharon Bryant,Foolish Heart,94,5,NA,NA,NA,NA,sharon-bryant-441-53x53.jpg
+99,81,Michael Morales,I Don't Know,90,6,NA,NA,NA,NA,bb-placeholder-new.jpg?28769be5cab2747d40a1
+100,75,Starship ,I Didn't Mean To Stay All Night,93,8,NA,NA,NA,NA,starship-djg-53x53.jpg
