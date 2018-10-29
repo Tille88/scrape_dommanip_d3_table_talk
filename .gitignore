@@ -1,0 +1,7 @@
+.cache/*
+dist
+music
+node_modules
+scraping/backup_from_rootfolder
+.Rhistory
+package-lock.json
