@@ -30,10 +30,10 @@ var CONFIG = {
 };
 
 // Constructor
-var Table = function(targetNode){
+var Table = function(targetNode, opts = {}){
 	// this.width = this.height = Math.min(targetNode.clientWidth, targetNode.clientHeight);
-	this.width = window.innerWidth;
-	this.height = window.innerHeight;
+	this.width = opts.width || window.innerWidth;
+	this.height = opts.height || window.innerHeight;
 	this.svg = d3.select(targetNode)
 		.append("svg")
 		// .attr("viewBox", "0 0 100 100");
@@ -67,10 +67,7 @@ Table.prototype.render = function(inData){
 		this.nodes = this.svg.append("g").selectAll("rect")
 			.data(inData, d => d.key)
 			.enter()
-			// .append("g") //!!!!
 			.append("rect")
-			// .append("text")
-			// .text(textFunc);
 
 
 		// var groupings = this.svg.append("g").selectAll("rect")
