@@ -1,8 +1,11 @@
 import { select, selectAll } from 'd3-selection';
-import {transition} from 'd3-transition';
+import {transition, active } from 'd3-transition';
+import { scaleLinear } from 'd3-scale';
 
 export default {
 	select,
 	selectAll,
-	transition
+	transition,
+	active,
+	scaleLinear
 }

@@ -10,6 +10,7 @@
     "dev-03-01": "parcel src/app/03_animations/01_css/index.html",
     "dev-03-02": "parcel src/app/03_animations/02_vanilla_js/index.html",
     "dev-03-03": "parcel src/app/03_animations/03_d3/index.html",
+    "dev-04": "parcel src/app/04_d3_final/index.html",
     "watch": "parcel watch src/index.html",
     "server": "node ./src/lib/server/server.js"
   },
